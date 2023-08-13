@@ -3,3 +3,11 @@
 .background-coloring {
     background-color: black;
 }
+
+.dev-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    font-size: 75px;
+    width: 90%;
+}
